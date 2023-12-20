@@ -3,7 +3,6 @@
     <div class="relative bg-[#000000] slide">
       <LandingPage />
       <!-- <R2MenuExpand /> -->
-      <!-- <R2Menu /> -->
       <Masthead />
       <!-- <WhatWeDo /> -->
       <!-- <ContactUs/> -->
@@ -22,7 +21,6 @@
 
 <script>
 import LandingPage from "./components/LandingPage.vue"
-import R2Menu from "./components/R2Menu.vue"
 import Masthead from "./components/MastHead.vue"
 import WhatWeDo from "./components/WhatWeDo.vue"
 import ContactUs from "./components/ContactUs.vue"

@@ -24,7 +24,12 @@
 </template>
 <script>
     export default {
-    methods: {
+        data(){
+            return {
+                slideMenu: false
+            }
+        },
+        methods: {
         closeMenu() {
         // Your close side menu logic goes here
         }
