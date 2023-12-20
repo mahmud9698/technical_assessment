@@ -102,12 +102,3 @@
         </form>
     </div>
 </template>
-<script>
-import R2Menu from "./R2Menu.vue"
-export default {
-  components: { R2Menu },
-  data() {
-
-  }
-}
-</script>
