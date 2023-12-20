@@ -4,6 +4,7 @@
       <LandingPage />
       <!-- <R2MenuExpand /> -->
       <Masthead />
+      <AboutGo />
       <!-- <WhatWeDo /> -->
       <!-- <ContactUs/> -->
       
@@ -28,9 +29,10 @@ import OurOffice from "./components/OurOffice.vue"
 import R2MenuExpand from "./components/R2MenuExpand.vue"
 import LetsChat from "./components/LetsChat.vue"
 import Footerr from "./components/Footerr.vue"
+import AboutGo from "./components/AboutGo.vue"
 export default {
   name: "App",
-  components: { LandingPage, Masthead, WhatWeDo, ContactUs, OurOffice, R2MenuExpand, LetsChat,Footerr },
+  components: { LandingPage, Masthead, WhatWeDo, ContactUs, OurOffice, R2MenuExpand, LetsChat, Footerr, AboutGo },
   data() {
 
   }
