@@ -6,8 +6,8 @@ module.exports = {
   ],
   theme: {
     screens:{
-      '<md':{'max':'768px'},
-      '<lg':{'max':'1246px'}
+      '<sm':{'max':'640px'},
+      '<lg':{'max':'1024px'}
     },
     boxShadow:{
       'wwd':'0px 0px 16px 0px rgba(255, 51, 102, 0.50)',
@@ -17,6 +17,8 @@ module.exports = {
     colors: {
       'colour-1' : '#33FFF3',
       'colour-2' : '#33F3FF',
+      'primary-cyan-base' : '#07ddda',
+      'gray-grey-nobel' : '#b4b4b4',
       'black': '#000000',
       'global-white': '#F5F5F5',
       'white-2' : '#FFFFFF',
@@ -40,7 +42,8 @@ module.exports = {
     },
     extend: {
       boxShadow: {
-        'customBoxShadow' : '0px 4px 24px -1px rgba(0, 0, 0, 0.25)'
+        'customBoxShadow' : '0px 4px 24px -1px rgba(0, 0, 0, 0.25)',
+        'submitBtn': '0px 0px 16px 0px rgba(255, 51, 102, 0.50)'
       },
       backdropBlur: {
         'xxsm' : '10px'

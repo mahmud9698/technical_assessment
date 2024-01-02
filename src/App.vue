@@ -2,13 +2,15 @@
   <div>
     <div class="relative bg-[#000000] slide">
       <LandingPage />
-      <!-- <R2MenuExpand /> -->
       <Masthead />
       <AboutGo />
-      <!-- <WhatWeDo /> -->
-      <!-- <ContactUs/> -->
+      <WhatWeDo />
+      <UnforgettableResult />
+      <WhatClientSay />
+      <SuperProud />
       <LetsChat />
-      <!-- <OurOffice/> -->
+      <ContactUs/>
+      <OurOffice/>
       <Footerr />
       <div class="clear-both">
 
@@ -24,13 +26,15 @@ import Masthead from "./components/MastHead.vue"
 import WhatWeDo from "./components/WhatWeDo.vue"
 import ContactUs from "./components/ContactUs.vue"
 import OurOffice from "./components/OurOffice.vue"
-import R2MenuExpand from "./components/R2MenuExpand.vue"
 import LetsChat from "./components/LetsChat.vue"
 import Footerr from "./components/Footerr.vue"
 import AboutGo from "./components/AboutGo.vue"
+import UnforgettableResult from "./components/UnforgettableResult.vue"
+import WhatClientSay from "./components/WhatClientSay.vue"
+import SuperProud from "./components/SuperProud.vue"
 export default {
   name: "App",
-  components: { LandingPage, Masthead, WhatWeDo, ContactUs, OurOffice, R2MenuExpand, LetsChat, Footerr, AboutGo },
+  components: { LandingPage, Masthead, WhatWeDo, ContactUs, OurOffice, LetsChat, Footerr, AboutGo, UnforgettableResult, WhatClientSay, SuperProud },
   data() {
 
   }
