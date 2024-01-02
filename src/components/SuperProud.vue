@@ -6,7 +6,7 @@
                 proud to work with
             </h1>
         </div>
-        <div class="mt-14 flex flex-col gap-16 py-[45px] sebelum selepas ">
+        <div class="mt-14 flex flex-col gap-16 py-[45px] ">
             <div class="overflow-hidden">
                 <div class="flex gap-8 toLeft">
                     <img class="w-[160px] <sm:w-[123.87px] <sm:h-12 h-[62px]" src="../assets/line-1/1_uob.png" alt="">
@@ -80,7 +80,7 @@
         to {transform: translateX(0);}
     }
 
-    .selepas::after,
+    /* .selepas::after,
     .sebelum ::before {
         position: absolute;
         top: 0;
@@ -98,5 +98,5 @@
     .selepas::after {
         right: 0;
         background:  linear-gradient(to right, rgba(1, 1, 1, 0.00),rgba(1, 1, 1, 1.00));
-    }
+    } */
 </style>
