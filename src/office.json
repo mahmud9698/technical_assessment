@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "region": "Australia & New Zealand",
+        "city": "Brisbane",
+        "phone": "+61 7 3852 5642",
+        "email": "bne@growthops.asia",
+        "address": "23 Kyabra St, Newstead, 4006, Brisbane"
+    },
+    {
+        "id": 1,
+        "region": "Australia & New Zealand",
+        "city": "Canberra",
+        "phone": "+61 2 6202 8200",
+        "email": "cbr@growthops.asia",
+        "address": "16/9 Beaconsfield St, Fyshwick ACT 2609"
+    },
+    {
+        "id": 2,
+        "region": "Australia & New Zealand",
+        "city": "Melbourne",
+        "phone": "+61 3 9243 8145",
+        "email": "mel@growthops.asia",
+        "address": "Level 11, 31 Queen St, Melbourne, Vic 3000"
+    },
+    {
+        "id": 3,
+        "region": "Australia & New Zealand",
+        "city": "Sydney",
+        "phone": "+61 7 3852 5642",
+        "email": "syd@growthops.asia",
+        "address": "Suite 47.01, Level 47, MLC Centre, 19-29 Martin Place, Sydney NSW 2000"
+    },
+    {
+        "id": 4,
+        "region": "Asia",
+        "city": "Kuala Lumpur",
+        "phone": "+60 3 2789 9038",
+        "email": "my@growthops.asia",
+        "address": "Level 11, Block B, Plaza Zurich, No. 12, Jalan Gelenggang, Bukit Damansara, 50490 Kuala Lumpur, Malaysia"
+    },
+    {
+        "id": 5,
+        "region": "Asia",
+        "city": "Hong kong",
+        "phone": "+852 2805 9009",
+        "email": "hkg@growthops.asia",
+        "address": "29/F, Infinitus Plaza, 199 Des Voeux Road Central, Hong Kong"
+    },
+    {
+        "id": 6,
+        "region": "Asia",
+        "city": "Manila",
+        "phone": "+63 2 7586 4771",
+        "email": "man@growthops.asia",
+        "address": "KMC Solutions, 5F V Corporate Center, L.P. Leviste, Salcedo Village, Makati City 1227"
+    },
+    {
+        "id": 7,
+        "region": "Asia",
+        "city": "Singapore",
+        "phone": "+65 6220 8383",
+        "email": "sg@growthops.asia",
+        "address": "1 Neil Rd, #02-02, Singapore 088804"
+    },
+    {
+        "id": 8,
+        "region": "Middle East",
+        "city": "United Arab Emirates",
+        "phone": "",
+        "email": "",
+        "address": "Building 1, Unit B304, Dubai Design District"
+    }
+]
